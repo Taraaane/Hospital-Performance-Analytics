@@ -10,8 +10,8 @@ This project is an end-to-end Data Analytics and Business Intelligence solution 
 
 ## 📂 Project Files
 * `Healthcare_Performance.ipynb`: The core Jupyter Notebook that generates synthetic hospital data (including departments, patients, billing, and costs), structures it, and exports it to CSV and SQLite formats.
-* `Healthcare_Performance_Dashboard.pbix.pbix`: The interactive Power BI dashboard containing the visual reports and business insights.
-* `Healthcare_Performance_Dashboard.pdf.pdf`: A static PDF export of the dashboard for quick and easy viewing.
+* `Healthcare_Performance_Dashboard.pbix`: The interactive Power BI dashboard containing the visual reports and business insights.
+* `Healthcare_Performance_Dashboard.pdf`: A static PDF export of the dashboard for quick and easy viewing.
 
 ## 📊 Key Insights & Dashboard Features
 The Power BI dashboard provides a comprehensive look into the hospital's operations, focusing on:
